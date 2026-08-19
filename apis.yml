@@ -32,7 +32,7 @@ x-note: >-
   wepow.com (OVIA / Wepow) redirects to harver.com; company acquired into Harver.
   No public developer API/portal found (api.harver.com 404; developer/api subdomains
   do not resolve).
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
